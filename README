@@ -1,9 +1,12 @@
-Plugins for the great vim NERDTree plugin:
+Plugins for the great NERDTree plugin:
 http://www.vim.org/scripts/script.php?script_id=1658
+
+change_fp.vim:
+* Change file permissions and owner/group ownership
 
 change_tree_root.vim:
 * Quick way to change NERDTree's root directory to the current working
   directory
 
-change_fp.vim:
-* Change file permissions and owner/group ownership
+grep.vim:
+* Integrate vim's grep command
